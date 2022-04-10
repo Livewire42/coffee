@@ -111,5 +111,7 @@ table {
 video {
     margin-bottom:20px;
     margin-left:160px;
+    -moz-filter:grayscale(100%);
+    -webkit-filter:grayscale(100%);
     filter:grayscale(100%);
 }
